@@ -1,2 +1,2 @@
 # Issifou-Biyagui
-My-First-Projet
+My-First-Project
